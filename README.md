@@ -47,5 +47,5 @@ jornada acadêmica e de aprendizado em programação.
 
 ## 📫 Contato
 
-- LinkedIn: [Nathalie Sousa](SEU_LINK)
-- E-mail: SEU_EMAIL
+- LinkedIn: [Nathalie Sousa](www.linkedin.com/in/nathaliesousadasilva)
+
