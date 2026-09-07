@@ -1,10 +1,12 @@
-### Olá, eu sou a Nathalie 👋
-> Estudante de Redes de Computadores | Developer em formação
+# 👋 Olá, eu sou a Nathalie!
 
-### 📚 Atualmente estudando
-- Redes de Computadores
-- Lógica de Programação
-- Git & GitHub
+🎓 Estudante de Sistemas de Informação  
+💻 Desenvolvedora em formação  
+🌱 Atualmente aprendendo e construindo projetos com código
+
+Gosto de transformar o que aprendo em projetos práticos,
+explorando desenvolvimento de software, programação e tecnologia.
+
 
 ### 💻 Tech Stack
 
