@@ -24,10 +24,9 @@
 
 ## 🧠 Sobre mim
 
-🎓 Estudante de **Sistemas de Informação**
-💻 Tenho interesse em **programação e desenvolvimento de software**
-🌱 Atualmente estou aprimorando meus conhecimentos em diferentes linguagens, ferramentas e conceitos da área de tecnologia.
-🚀 Gosto de transformar aquilo que aprendo em projetos práticos.
+Estudante de **Sistemas de Informação**.Tenho interesse em **programação e desenvolvimento de software**
+ Atualmente estou aprimorando meus conhecimentos em diferentes linguagens, ferramentas e conceitos da área de tecnologia.
+ Gosto de transformar aquilo que aprendo em projetos práticos.
 
 ---
 
