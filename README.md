@@ -1,51 +1,96 @@
-# Olá! Eu sou a Nathalie 👋
+<!--
+# 👋 Olá! Eu sou a Nathalie
 
-🎓 Estudante de Sistemas de Informação  
-💻 Aspirante a Desenvolvedora de Software  
-🇧🇷 Brasil
+<div align="center">
 
-## 👩‍💻 Sobre mim
+### 💻 Information Systems Student | Developer in Progress
 
-Sou estudante de Sistemas de Informação e estou construindo
-minha trajetória na área de Tecnologia da Informação.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Nathalie%20Sousa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Learn%20%7C%20Build&descAlignY=55&descSize=18">
 
-Atualmente, estou desenvolvendo meus conhecimentos em
-programação, banco de dados e desenvolvimento de software.
+</div>
+-->
 
-Gosto de aprender na prática e transformar ideias em projetos.
+<div align="center">
 
-## 🛠️ Tecnologias
+# 👋 Olá, eu sou a Nathalie!
 
-### Linguagens
-- Python
-- Java
-- C#
-- HTML
-- CSS
+### 💻 Estudante de Sistemas de Informação | Desenvolvedora em formação
 
-### Banco de dados
-- MySQL
+*Code • Learn • Build*
 
-### Outros conhecimentos
-- Lógica de programação
-- Git
-- GitHub
-- Redes de computadores
+</div>
 
-## 🌱 Atualmente estudando
+---
 
-- Programação
-- Desenvolvimento de software
-- Banco de dados
-- Git e GitHub
-- Estruturas de dados
+## 🧠 Sobre mim
 
-## 🚀 Projetos
+🎓 Estudante de **Sistemas de Informação**
 
-Aqui você encontrará projetos desenvolvidos durante minha
-jornada acadêmica e de aprendizado em programação.
+💻 Interessada em **desenvolvimento de software e programação**
 
-## 📫 Contato
+🌱 Atualmente focada em aprimorar meus conhecimentos e transformar
+o que aprendo em projetos práticos.
 
-- LinkedIn: [Nathalie Sousa](www.linkedin.com/in/nathaliesousadasilva)
+🚀 Gosto de aprender novas tecnologias, resolver problemas e evoluir
+constantemente na área de tecnologia.
 
+---
+
+## 🚀 Projetos em destaque
+
+> Aqui estão alguns dos projetos que melhor representam minha evolução
+> e minhas habilidades em programação.
+
+### 💡 Projeto 01 — [Nome do projeto]
+
+Descrição curta do projeto e do problema que ele resolve.
+
+**Tecnologias:** `Java` `MySQL`
+
+🔗 [Ver repositório](COLE-O-LINK-AQUI)
+
+---
+
+### 🌐 Projeto 02 — [Nome do projeto]
+
+Descrição curta do projeto.
+
+**Tecnologias:** `HTML` `CSS` `JavaScript`
+
+🔗 [Ver repositório](COLE-O-LINK-AQUI)
+
+---
+
+### 🐍 Projeto 03 — [Nome do projeto]
+
+Descrição curta do projeto.
+
+**Tecnologias:** `Python` `SQL`
+
+🔗 [Ver repositório](COLE-O-LINK-AQUI)
+
+---
+
+### 📚 Projeto 04 — [Nome do projeto]
+
+Projeto desenvolvido durante meus estudos para praticar conceitos
+de programação e desenvolvimento de software.
+
+**Tecnologias:** `C#` `Git`
+
+🔗 [Ver repositório](COLE-O-LINK-AQUI)
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+☕ Java
+🐍 Python
+#️⃣ C#
+🗄️ SQL / MySQL
+🌐 HTML & CSS
+⚡ JavaScript
+🧠 Lógica de Programação
+🌐 Redes de Computadores
+🔧 Git & GitHub
