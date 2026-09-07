@@ -1,30 +1,273 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Nathalie%20Sousa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=18"/>
+
 # 👋 Olá, eu sou a Nathalie!
 
-🎓 Estudante de Sistemas de Informação  
-💻 Desenvolvedora em formação  
-🌱 Atualmente aprendendo e construindo projetos com código
+### 💻 Estudante de Sistemas de Informação | Desenvolvedora em formação
 
-Gosto de transformar o que aprendo em projetos práticos,
-explorando desenvolvimento de software, programação e tecnologia.
+<p>
+  <a href="https://github.com/Nathalie-thaliey23h">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="COLE-SEU-LINKEDIN-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEUEMAIL@EMAIL.COM">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+</div>
 
-### 💻 Tech Stack
+---
 
-**Linguagens**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🧠 Sobre mim
 
-**Web**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🎓 Estudante de **Sistemas de Informação**
 
-**Banco de dados**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+💻 Tenho interesse em **programação e desenvolvimento de software**
 
-**Ferramentas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Pop_OS!](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop-os&logoColor=white)
+🌱 Atualmente estou aprimorando meus conhecimentos em diferentes
+linguagens, ferramentas e conceitos da área de tecnologia.
+
+🚀 Gosto de transformar aquilo que aprendo em projetos práticos,
+experimentar novas tecnologias e evoluir constantemente.
+
+---
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💡 Projeto 01
+
+Descrição do seu projeto.
+
+**Tecnologias:**
+
+`Java` `MySQL`
+
+<a href="COLE-O-LINK-DO-PROJETO-AQUI">
+<img src="https://img.shields.io/badge/Ver%20projeto-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 Projeto 02
+
+Descrição do seu projeto.
+
+**Tecnologias:**
+
+`HTML` `CSS` `JavaScript`
+
+<a href="COLE-O-LINK-DO-PROJETO-AQUI">
+<img src="https://img.shields.io/badge/Ver%20projeto-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🐍 Projeto 03
+
+Descrição do seu projeto.
+
+**Tecnologias:**
+
+`Python` `SQL`
+
+<a href="COLE-O-LINK-DO-PROJETO-AQUI">
+<img src="https://img.shields.io/badge/Ver%20projeto-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### ☕ Projeto 04
+
+Descrição do seu projeto.
+
+**Tecnologias:**
+
+`Java` `Git`
+
+<a href="COLE-O-LINK-DO-PROJETO-AQUI">
+<img src="https://img.shields.io/badge/Ver%20projeto-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+<div align="center">
+
+| Tecnologia | Área |
+|:---:|:---:|
+| ☕ **Java** | Programação |
+| 🐍 **Python** | Programação |
+| #️⃣ **C#** | Programação |
+| 🗄️ **MySQL / SQL** | Banco de Dados |
+| 🌐 **HTML & CSS** | Desenvolvimento Web |
+| ⚡ **JavaScript** | Desenvolvimento Web |
+| 🧠 **Lógica de Programação** | Fundamentos |
+| 🌐 **Redes de Computadores** | Infraestrutura |
+| 🔧 **Git & GitHub** | Versionamento |
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### 🧩 Linguagens
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,cs,js" />
+
+</p>
+
+### 🌐 Desenvolvimento Web
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+</p>
+
+### 🗄️ Banco de Dados
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+### 🛠️ Ferramentas
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</p>
+
+---
+
+## 🌱 Minha jornada
+
+<div align="center">
+
+> **Aprender. Praticar. Construir. Evoluir.**
+
+</div>
+
+Este GitHub acompanha minha evolução na área de tecnologia.
+
+Aqui você encontrará projetos acadêmicos, projetos pessoais,
+experimentos, exercícios e aplicações desenvolvidas durante minha
+jornada de aprendizado em programação e desenvolvimento de software.
+
+Meu objetivo é transformar conhecimento em prática e, aos poucos,
+construir projetos cada vez mais completos.
+
+---
+
+## 🎯 Objetivos
+
+- 📚 Aprofundar meus conhecimentos em programação
+- 💻 Desenvolver projetos cada vez mais completos
+- 🧠 Melhorar minha lógica e resolução de problemas
+- 🗄️ Evoluir meus conhecimentos em banco de dados
+- 🌐 Aprimorar minhas habilidades em desenvolvimento web
+- 🔧 Melhorar minhas práticas com Git e GitHub
+- 🚀 Construir um portfólio sólido na área de tecnologia
+- 🤝 Participar de projetos e comunidades de programação
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathalie-thaliey23h&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalie-thaliey23h&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathalie-thaliey23h&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nathalie-thaliey23h&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+## 🔗 Vamos nos conectar?
+
+<div align="center">
+
+<a href="COLE-SEU-LINKEDIN-AQUI">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL@EMAIL.COM">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nathalie-thaliey23h">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Obrigada por visitar meu perfil!
+
+<img src="https://komarev.com/ghpvc/?username=Nathalie-thaliey23h&color=8A2BE2&style=flat-square&label=Profile+Views"/>
+
+<br><br>
+
+*"A melhor forma de aprender programação é programando."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
