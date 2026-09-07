@@ -73,6 +73,14 @@ experimentar novas tecnologias e evoluir constantemente.
 
 ---
 
+### 📊 Estatísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Nathalie-thaliey23h&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalie-thaliey23h&layout=compact&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nathalie-thaliey23h&theme=tokyonight)
+
 ## 🌱 Minha jornada
 
 <div align="center">
