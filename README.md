@@ -36,18 +36,6 @@ experimentar novas tecnologias e evoluir constantemente.
 
 
 
-**Tecnologias:**
-
-`Python` `SQL`
-
-<a href="COLE-O-LINK-DO-PROJETO-AQUI">
-<img src="https://img.shields.io/badge/Ver%20projeto-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
 
 ## 💻 Tech Stack
 
