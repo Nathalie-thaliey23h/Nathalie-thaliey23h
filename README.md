@@ -1,26 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Nathalie%20Sousa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=18" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Nathalie%20Sousa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=18"/>
 
 # 👋 Olá, eu sou a Nathalie!
 
 ### 💻 Estudante de Sistemas de Informação | Desenvolvedora em formação
 
-<div align="center">
-
-<a href="https://github.com/Nathalie-thaliey23h">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nathaliesousadasilva">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:nathalie.sousadasilva7@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <a href="https://github.com/Nathalie-thaliey23h">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nathaliesousadasilva">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nathalie.sousadasilva7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -29,67 +25,40 @@
 ## 🧠 Sobre mim
 
 🎓 Estudante de **Sistemas de Informação**
-
 💻 Tenho interesse em **programação e desenvolvimento de software**
-
 🌱 Atualmente estou aprimorando meus conhecimentos em diferentes linguagens, ferramentas e conceitos da área de tecnologia.
-
-🚀 Gosto de transformar aquilo que aprendo em projetos práticos, experimentar novas tecnologias e evoluir constantemente.
+🚀 Gosto de transformar aquilo que aprendo em projetos práticos.
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧩 Linguagens
-
-<div align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,cs,js" />
-
-</div>
+</p>
 
 ### 🌐 Desenvolvimento Web
-
-<div align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=html,css" />
-
-</div>
+</p>
 
 ### 🗄️ Banco de Dados
-
-<div align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=mysql" />
-
-</div>
+</p>
 
 ### 🛠️ Ferramentas
-
-<div align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-</div>
+</p>
 
 ---
 
-## 📊 Estatísticas
+## 🔥 Minha Atividade
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nathalie-thaliey23h&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalie-thaliey23h&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nathalie-thaliey23h&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathalie-thaliey23h&theme=tokyonight" />
 </div>
 
 ---
@@ -102,11 +71,7 @@
 
 </div>
 
-Este GitHub acompanha minha evolução na área de tecnologia.
-
-Aqui você encontrará projetos acadêmicos, projetos pessoais, experimentos, exercícios e aplicações desenvolvidas durante minha jornada de aprendizado em programação e desenvolvimento de software.
-
-Meu objetivo é transformar conhecimento em prática e, aos poucos, construir projetos cada vez mais completos.
+Este GitHub acompanha minha evolução na área de tecnologia. Aqui você encontrará projetos acadêmicos, pessoais e experimentos da minha jornada.
 
 ---
 
@@ -115,72 +80,10 @@ Meu objetivo é transformar conhecimento em prática e, aos poucos, construir pr
 - 📚 Aprofundar meus conhecimentos em programação
 - 💻 Desenvolver projetos cada vez mais completos
 - 🧠 Melhorar minha lógica e resolução de problemas
-- 🗄️ Evoluir meus conhecimentos em banco de dados
-- 🌐 Aprimorar minhas habilidades em desenvolvimento web
+- 🗄️ Evoluir em banco de dados e desenvolvimento web
 - 🔧 Melhorar minhas práticas com Git e GitHub
-- 🚀 Construir um portfólio sólido na área de tecnologia
-- 🤝 Participar de projetos e comunidades de programação
+- 🚀 Construir um portfólio sólido
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathalie-thaliey23h&theme=tokyo-night&hide_border=true&area=true&custom_title=Minha%20atividade%20no%20GitHub" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nathalie-thaliey23h&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-## 🔗 Vamos nos conectar?
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nathaliesousadasilva">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:nathalie.sousadasilva7@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Nathalie-thaliey23h">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Obrigada por visitar meu perfil!
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Nathalie-thaliey23h&color=8A2BE2&style=flat-square&label=Profile+Views"/>
-
-<br><br>
-
-*"A melhor forma de aprender programação é programando."*
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
