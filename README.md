@@ -34,56 +34,7 @@ linguagens, ferramentas e conceitos da área de tecnologia.
 🚀 Gosto de transformar aquilo que aprendo em projetos práticos,
 experimentar novas tecnologias e evoluir constantemente.
 
----
 
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 💡 Projeto 01
-
-Descrição do seu projeto.
-
-**Tecnologias:**
-
-`Java` `MySQL`
-
-<a href="COLE-O-LINK-DO-PROJETO-AQUI">
-<img src="https://img.shields.io/badge/Ver%20projeto-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🌐 Projeto 02
-
-Descrição do seu projeto.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
-
-<a href="COLE-O-LINK-DO-PROJETO-AQUI">
-<img src="https://img.shields.io/badge/Ver%20projeto-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🐍 Projeto 03
-
-Descrição do seu projeto.
 
 **Tecnologias:**
 
@@ -97,46 +48,6 @@ Descrição do seu projeto.
 
 <td width="50%">
 
-### ☕ Projeto 04
-
-Descrição do seu projeto.
-
-**Tecnologias:**
-
-`Java` `Git`
-
-<a href="COLE-O-LINK-DO-PROJETO-AQUI">
-<img src="https://img.shields.io/badge/Ver%20projeto-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 📚 Atualmente estudando
-
-<div align="center">
-
-| Tecnologia | Área |
-|:---:|:---:|
-| ☕ **Java** | Programação |
-| 🐍 **Python** | Programação |
-| #️⃣ **C#** | Programação |
-| 🗄️ **MySQL / SQL** | Banco de Dados |
-| 🌐 **HTML & CSS** | Desenvolvimento Web |
-| ⚡ **JavaScript** | Desenvolvimento Web |
-| 🧠 **Lógica de Programação** | Fundamentos |
-| 🌐 **Redes de Computadores** | Infraestrutura |
-| 🔧 **Git & GitHub** | Versionamento |
-
-</div>
-
----
 
 ## 💻 Tech Stack
 
